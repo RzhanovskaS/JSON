@@ -1,0 +1,10 @@
+
+{ "hard skils":
+	{ "first" : "Understanding the systems’ specifications",
+	"second" : "Being familiar with tools for test management and bug tracking",
+	"third" : "Understanding certain programming languages"},
+{ "soft skills" :
+{ "first" : "Empathy",
+"second" : "Attention to detail",
+"third" : "Communication skills",
+"fourt" : "Problem-solving skills"}}
