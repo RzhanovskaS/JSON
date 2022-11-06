@@ -1,3 +1,5 @@
-{Lana Rzhanovska"[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D"[D"name[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~":"Lana Rzhanovska",
-"age":[D : 33,
-"pets" : 2,
+{ "info about myself":
+	["name" : "Lana Rzhanovska",
+	"age" : 33,
+	"pets" : 2,
+	"future salary" : 500]}
